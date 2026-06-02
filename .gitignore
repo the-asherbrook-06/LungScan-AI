@@ -43,8 +43,3 @@ Flutter \App/android/.gradle/
 Flutter \App/android/local.properties
 Flutter \App/ios/Pods/
 Flutter \App/ios/Podfile.lock
-
-# =====================================================================
-# Temporary - Isolate everything except Python Code
-# =====================================================================
-Assets/
