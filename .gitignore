@@ -1,0 +1,52 @@
+# =====================================================================
+# SYSTEM & IDE
+# =====================================================================
+.DS_Store
+.vscode/
+.idea/
+
+# =====================================================================
+# DATASETS & ML ASSETS (Targeting your specific paths)
+# =====================================================================
+# Targets: root/Assets/Dataset/
+/Assets/Dataset/
+
+# Targets: root/Python Code/Dataset/ 
+Python*/Dataset/
+
+# Targets: root/Python Code/Models/ & root/Server/models/
+Python*/Models/
+/Server/models/
+
+# =====================================================================
+# PYTHON VIRTUAL ENVIRONMENTS & CACHE
+# =====================================================================
+Python*/__pycache__/
+Python*/venv/
+Python*/.venv/
+Server/__pycache__/
+Server/venv/
+Server/.venv/
+*.pyc
+
+# =====================================================================
+# FLUTTER APP DEPENDENCIES & BUILDS
+# =====================================================================
+Flutter \App/.dart_tool/
+Flutter \App/.flutter-plugins
+Flutter \App/.flutter-plugins-dependencies
+Flutter \App/.packages
+Flutter \App/.pub-cache/
+Flutter \App/.pub/
+Flutter \App/build/
+Flutter \App/android/.gradle/
+Flutter \App/android/local.properties
+Flutter \App/ios/Pods/
+Flutter \App/ios/Podfile.lock
+
+# =====================================================================
+# Temporary - Isolate everything except Python Code
+# =====================================================================
+Assets/
+Flutter\ App/
+Server/
