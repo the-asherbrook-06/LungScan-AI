@@ -14,10 +14,6 @@
 # Targets: root/Python Code/Dataset/ 
 Python*/Dataset/
 
-# Targets: root/Python Code/Models/ & root/Server/models/
-Python*/Models/
-/Server/models/
-
 # =====================================================================
 # PYTHON VIRTUAL ENVIRONMENTS & CACHE
 # =====================================================================
