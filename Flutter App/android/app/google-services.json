@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "359337219224",
+    "project_id": "app-asher-lungscan-ai",
+    "storage_bucket": "app-asher-lungscan-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359337219224:android:e505310c1a44cb3e76eced",
+        "android_client_info": {
+          "package_name": "app.asher.lungscan_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359337219224-3nj3i2ac9avrd3gv1rti6rh7gi44nt7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbY-nqAqmb4r74bsEeUz2qvHFwoMaddx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359337219224-3nj3i2ac9avrd3gv1rti6rh7gi44nt7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "359337219224-itp2qmil9be2rc1a6spat2on5a17ai5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.asher.lungscanAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
